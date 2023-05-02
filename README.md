@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+[![Alecs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickBorgesGalindo&show_icons=true)](https://github.com/ErickBorgesGalindo)
 
 <br/>
 
@@ -54,7 +54,7 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBorgesGalindo&show_icons=true)
 
 <br><br>
 
@@ -72,13 +72,13 @@
 
 <p align="center">
 
-<a href="https://www.notion.so/alecspace/CV-Ing-Erick-Alejandro-Borges-Galindo-7a669d0803554391a81a9ceb09963ec8"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.notion.so/alecspace/CV-Ing-Erick-Alejandro-Borges-Galindo-7a669d0803554391a81a9ceb09963ec8"><img alt="Website" src="https://img.shields.io/badge/alecs.cv-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/erick-borges-galindo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/erick-borges-galindo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alecs%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
 <!-- <a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a> -->
 
-<a href="mailto:erick.borges@outlook.es"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:erick.borges@outlook.es"><img alt="Email" src="https://img.shields.io/badge/Email-erick.borges@outlook.es-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
