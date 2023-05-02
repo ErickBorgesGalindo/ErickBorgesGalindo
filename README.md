@@ -69,7 +69,7 @@
 <p align="left">
 <a href="https://www.notion.so/alecspace/CV-Ing-Erick-Alejandro-Borges-Galindo-7a669d0803554391a81a9ceb09963ec8"><img src="https://img.shields.io/badge/-ErickBorges%20CV-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/erick-borges-galindo"><img src="https://img.shields.io/badge/-Erick%20Borges-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:erick.borges@outlook.es"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:erick.borges@outlook.es"><img src="https://img.shields.io/badge/-erick.borges@outlook.es-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
