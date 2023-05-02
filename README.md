@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Alecs</h2>
+### Hi there 👋<h2> I'm Erick</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -74,7 +74,7 @@
 
 <a href="https://www.notion.so/alecspace/CV-Ing-Erick-Alejandro-Borges-Galindo-7a669d0803554391a81a9ceb09963ec8"><img alt="Website" src="https://img.shields.io/badge/alecs.cv-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/erick-borges-galindo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alecs%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/erick-borges-galindo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Erick%20Borges-blue?style=flat-square&logo=linkedin"></a>
 
 <!-- <a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a> -->
 
