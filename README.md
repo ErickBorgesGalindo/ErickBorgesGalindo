@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Erick</h2>
 
-<img align='right' src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 🧔🏻‍♂️•💻 About Me </h3>
 
