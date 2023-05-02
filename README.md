@@ -66,22 +66,6 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<br>
-
-
-
-<p align="center">
-
-<a href="https://www.notion.so/alecspace/CV-Ing-Erick-Alejandro-Borges-Galindo-7a669d0803554391a81a9ceb09963ec8"><img alt="Website" src="https://img.shields.io/badge/alecs.cv-black?style=flat-square&logo=google-chrome"></a>
-
-<a href="https://www.linkedin.com/in/erick-borges-galindo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Erick%20Borges-blue?style=flat-square&logo=linkedin"></a>
-
-<!-- <a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a> -->
-
-<a href="mailto:erick.borges@outlook.es"><img alt="Email" src="https://img.shields.io/badge/Email-erick.borges@outlook.es-blue?style=flat-square&logo=gmail"></a>
-
-</p>
-
 <p align="center">
 <a href="https://www.notion.so/alecspace/CV-Ing-Erick-Alejandro-Borges-Galindo-7a669d0803554391a81a9ceb09963ec8"><img src="https://img.shields.io/badge/-ErickBorges%20CV-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/erick-borges-galindo"><img src="https://img.shields.io/badge/-Erick%20Borges-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
