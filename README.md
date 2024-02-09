@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | Postgresql 
+- 💻 &nbsp; Python | Java | C++ | C | Postgresql | NodeJS 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | MaterialUI | React Native/Js | SwiftUI
 
