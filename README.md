@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Erick</h2>
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRlZzN6MTRocHlrcXd3N2cyMHRkNWE3aWt2dXAyczdpenB1YzR5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif widht=300">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRlZzN6MTRocHlrcXd3N2cyMHRkNWE3aWt2dXAyczdpenB1YzR5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
 
 <h3> 🧔🏻‍♂️•💻 About Me </h3>
 
