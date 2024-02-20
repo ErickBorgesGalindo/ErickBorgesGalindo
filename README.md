@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Erick</h2>
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRlZzN6MTRocHlrcXd3N2cyMHRkNWE3aWt2dXAyczdpenB1YzR5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="350" align='right'>
 
 <h3> 🧔🏻‍♂️•💻 About Me </h3>
 
@@ -52,7 +52,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="350" align='right'>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRlZzN6MTRocHlrcXd3N2cyMHRkNWE3aWt2dXAyczdpenB1YzR5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBorgesGalindo&show_icons=true)
 
