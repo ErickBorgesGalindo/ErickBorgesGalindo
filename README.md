@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; [Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Java | C++ | C | Postgresql | NodeJS 
+- 💻 &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)"/>| Java | C++ | C | Postgresql | NodeJS 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | MaterialUI | React Native/Js | SwiftUI
 
