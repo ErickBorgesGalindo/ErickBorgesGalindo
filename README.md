@@ -43,27 +43,6 @@
 <hr>
 
 
-
-<br/><br/>
-
-[![Alecs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickBorgesGalindo&show_icons=true)](https://github.com/ErickBorgesGalindo)
-
-<br/>
-
-<br/>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRlZzN6MTRocHlrcXd3N2cyMHRkNWE3aWt2dXAyczdpenB1YzR5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBorgesGalindo&show_icons=true)
-
-<br><br>
-
-
-
-<hr>
-
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
