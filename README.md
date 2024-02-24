@@ -17,7 +17,7 @@
 const Alecs = {
   pronouns: "he" | "him",
   code: ["Javascript", "Python", "Java", "C++", "HTML", "CSS"],
-    askMeAbout: ["web-development", "artificial-intelligence", "movil-development", "AR-VR"],
+    askMeAbout: ["web-development", "artificial-intelligence", "movil-development", "VR-AR"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
