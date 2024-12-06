@@ -3,7 +3,7 @@
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHM0MHk1czRoamVjOHg1dDZwdGQxNG9ieHRqejVoa3drMjA5ZThvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G74LKP9zsfLInmz3H6/giphy.gif" width="250">
 
-<p><em>Master of Engineering Sciences <a href="https://www.uv.mx">Universidad Veracruzana</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgyd24zamNjeGwzdWI1dGlwY281dHM5OHBnMXdrZ3d2N3BtdWU3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bkfE0WHpVa0bfZdgBx/giphy.gif" width="30"></br>Teacher at <a href="https://pozarica.uo.edu.mx/inicio">Universidad de Oriente</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Master of Engineering Sciences <a href="https://www.uv.mx">Universidad Veracruzana</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgyd24zamNjeGwzdWI1dGlwY281dHM5OHBnMXdrZ3d2N3BtdWU3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bkfE0WHpVa0bfZdgBx/giphy.gif" width="30"></br>Teacher at <a href="https://www.uv.mx">Universidad Veracruzana</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgyd24zamNjeGwzdWI1dGlwY281dHM5OHBnMXdrZ3d2N3BtdWU3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bkfE0WHpVa0bfZdgBx/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: ErickBorges](https://img.shields.io/twitter/follow/ErickBorges?style=social)](https://twitter.com/ErickBGalindo)
